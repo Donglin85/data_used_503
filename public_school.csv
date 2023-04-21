@@ -1,0 +1,28 @@
+﻿id,Elementary,Middle,High,Total,State,HousePrice,TotalClass
+Allegany County,14,4,3,21,1,1000,1
+Anne Arundel County,81,19,13,113,1,2000,4
+Baltimore City,37,3,16,56,1,1500,2
+Baltimore County,108,26,21,155,1,1600,4
+Calvert County,12,6,4,22,1,3000,1
+Caroline County,5,2,2,9,1,2500,1
+Carroll County,22,8,7,37,1,2400,2
+Cecil County,17,6,5,28,1,2200,1
+Charles County,22,8,7,37,1,2100,2
+Dorchester County,6,2,2,10,1,1900,1
+Frederick County,39,13,10,62,1,1800,3
+Garrett County,7,2,2,11,1,1700,1
+Harford County,33,9,9,51,1,1400,2
+Howard County,42,20,12,74,1,1300,3
+Kent County,3,1,1,5,1,1200,1
+Montgomery County,135,40,25,200,1,1600,4
+Prince George's County,121,24,24,169,1,1700,4
+Queen Anne's County,8,3,2,13,1,2100,1
+St. Mary's County,18,4,3,25,1,2200,1
+Somerset County,4,1,0,5,1,2500,1
+Talbot County,5,1,1,7,1,2700,1
+Washington County,25,7,7,39,1,2800,2
+Wicomico County,16,3,3,22,1,1900,1
+Worcester County,6,1,3,10,1,2400,1
+District of Columbia,204,118,41,363,2,2500,4
+Arlington County,24,6,4,34,3,2600,2
+Alexandria City,14,4,1,19,3,3000,1
